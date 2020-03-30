@@ -1,0 +1,2 @@
+rootProject.name='Cheat Application'
+include ':app'

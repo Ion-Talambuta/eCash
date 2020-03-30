@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "5864756059",
+    "firebase_url": "https://epay-1574432240899.firebaseio.com",
+    "project_id": "epay-1574432240899",
+    "storage_bucket": "epay-1574432240899.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5864756059:android:ca4711dac5c5235bc4c07e",
+        "android_client_info": {
+          "package_name": "com.example.cheatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5864756059-i4pqqr4gvei9mm1f67svj76mlmsk0fll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cheatapp",
+            "certificate_hash": "c3c79708d101779e91465bb918c02d8365d20e68"
+          }
+        },
+        {
+          "client_id": "5864756059-rrtaq1078fpmal65pov887qufp09mack.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARgpsGa2xbrLP0VbPEMdxRiP5uK1DQo0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5864756059-rrtaq1078fpmal65pov887qufp09mack.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

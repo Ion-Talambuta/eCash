@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">eCash</string>
+
+    //Butoane Welcome_activity
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    //slide 1 Descriere si Titlu
+    <string name="slide_1_title">Discuții tehnice</string>
+    <string name="slide_1_desc">Obțineți răspunsuri la întrebările dvs.</string>
+
+    //slide 2 Descriere si Titlu
+    <string name="slide_2_title">Conversații creative</string>
+    <string name="slide_2_desc">Inspirați-vă din comunitate</string>
+
+    //slide 3 Descriere si Titlu
+    <string name="slide_3_title">Gestionează cu încredere banii tăi</string>
+    <string name="slide_3_desc">Ai mereu la îndemână un suport de încredere</string>
+
+    //Main activity
+    <string name="Enter_ecash">Enter eCash Mobile</string>
+    <string name="buton_1">Contact Us</string>
+    <string name="buton_2">Exchange</string>
+    <string name="buton_3">Info</string>
+    <string name="buton_4">Backup</string>
+    <string name="signin">Sign In</string>
+    <string name="signup">Sign Up</string>
+    <string name="sign_up">SIGN UP</string>
+
+    //Sign Activity
+    <string name="cards">Cards</string>
+    <string name="description">Sign in to enjoy your digital wallet and make your life easier</string>
+    <string name="description2">Don\'t have an ePay account? Press the Register button bellow!</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="button_new_account">SIGN UP WITH GOOGLE or FACEBOOK</string>
+    <string name="signin_later">SIGN IN LATER</string>
+    <string name="sign">SIGN IN</string>
+    <string name="sign_out">SIGN OUT</string>
+
+    //Create new account activity
+    <string name="newacc">Create new account</string>
+    <string name="description1">You can also sign up with your social accounts</string>
+    <string name="google_button">Sign up with Google</string>
+    <string name="facebook_button">Sign up with Facebook</string>
+
+    <string name="facebook_app_id">480929749442959</string>
+    <string name="fb_login_protocol_scheme">fb480929749442959</string>
+
+    <string name="Dobanzi_referinta">Dobanzi de referinta</string>
+    <string name="Online">Online</string>
+    <string name="BNR">BNR</string>
+
+    <string name="Setting">Contact Us</string>
+    <string name="phone">PHONE NUMBERS</string>
+    <string name="email1">EMAIL</string>
+    <string name="web">WEB</string>
+    <string name="phone1">+4 073 494 7505</string>
+    <string name="phone2">+373 068 448 566</string>
+    <string name="phone3">+4 023 000 0001</string>
+    <string name="email2">contact@epay.com</string>
+    <string name="email3">support@epay.com</string>
+    <string name="web_contact">https://www.epay.com</string>
+    <string name="facebook_contact">https://www.facebook.com/businesschangetheworld</string>
+
+    <string name="Home">Home</string>
+    <string name="Finante">Finance</string>
+    <string name="Transaction">Transfers</string>
+    <string name="Info">Info</string>
+
+    <string name="email4">Email address</string>
+    <string name="password">Password</string>
+    <string name="register">REGISTER</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_cat_male">Information</string>
+    <string name="action_cat_female">About Us</string>
+    <string name="action_kitten">Log Out</string>
+    <string name="action_help">Help</string>
+
+</resources>

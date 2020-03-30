@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cheat Application</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="introduceti_mesajul">Introduceti Mesajul</string>
+</resources>
